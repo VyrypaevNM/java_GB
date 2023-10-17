@@ -1,0 +1,14 @@
+окт. 05, 2023 8:51:49 PM sem2.s2t5_logger.S2t5 writeToFile
+INFO: record succesfull
+окт. 05, 2023 9:00:20 PM sem2.s2t5_logger.S2t5 writeToFile
+INFO: record succesfull
+окт. 05, 2023 9:00:35 PM sem2.s2t5_logger.S2t5 writeToFile
+INFO: record succesfull
+окт. 05, 2023 9:04:55 PM sem2.s2t5_logger.S2t5 writeToFile
+WARNING: smth wrong
+окт. 05, 2023 10:08:12 PM sem2.s2t5_logger.S2t5 writeToFile
+INFO: record succesfull
+окт. 05, 2023 10:12:39 PM sem2.s2t5_logger.S2t5 writeToFile
+INFO: record succesfull
+окт. 05, 2023 10:13:12 PM sem2.s2t5_logger.S2t5 writeToFile
+INFO: record succesfull
